@@ -40,8 +40,6 @@ Note: The command python inventory.py or python3 inventory.py assumes that you h
 2. Select the appropriate option from the menu to add, remove, or update products.
 3. You can also view the current inventory by selecting the "View Inventory" option from the menu.
 
-![Inventory App in action](screenshots/ss1.jpeg)
-![Inventory App in action](screenshots/ss2.jpeg)
 ![Inventory App in action](screenshots/ss3.jpeg)
 ![Inventory App in action](screenshots/ss4.jpeg)
 
