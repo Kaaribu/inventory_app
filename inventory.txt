@@ -9,7 +9,7 @@ Canada,SKU68677,Air Max 97,3600.0,13
 Egypt,SKU19888,Dunk SB,1500.0,26
 Britain,SKU76000,Kobe 4,3400.0,32
 France,SKU84500,Pegasus,2490.0,28
-Zimbabwe,SKU20207,Air Presto,2999.0,7
+Zimbabwe,SKU20207,Air Presto,2999.0,11
 Morocco,SKU77744,Challenge Court,1450.0,11
 Israel,SKU29888,Air Zoom Generation,2680.0,36
 Uganda,SKU33000,Flyknit Racer,4900.0,9
